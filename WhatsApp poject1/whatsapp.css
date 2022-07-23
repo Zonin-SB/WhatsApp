@@ -1,0 +1,227 @@
+.header{
+    background: #128c7e;
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    top:0;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 16%;
+    padding-top: 20px;
+    float: left;
+   padding-left: 155px;
+}
+.logoimg{
+   
+    
+    
+    cursor:pointer;
+
+}
+
+.navigation{
+    width: 70%;
+    float: left;
+   margin-left: 357px;
+   margin-top: -46px;
+    
+
+}
+.navigation-list{
+    text-decoration: none;
+    color:white;
+   
+}
+
+.list1{
+    color: white;
+   display: inline;
+   font-size: 16px;
+   font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+   padding-inline: 20px; 
+   
+}
+.left-section{
+   font-size: 33px;
+    margin-left: 282px;
+    width: 50%;
+    float: left;
+    margin-top: 206px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #1c1e21;
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.para1{
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1c1e21
+}
+.para2{
+    color: #5e5e5e;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.platform{
+    text-decoration: none;
+    color: #1CB39B;
+    font-size:18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.chatscreen{
+    margin-top: -502px;
+    margin-left: 762px;
+}
+.platform-img{
+    color: #128c7e;
+    width: 14px;
+    text-decoration: none;
+}
+.list2{
+    font-size: 19px;
+    text-decoration: none;
+    color:#128c7e ;
+}
+.platform:hover{
+    text-decoration: underline;
+}
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+.box1{
+    background-color: #D8E8EA;
+    height: 850px;
+    width: 660px;
+    margin-left: -956px;
+    margin-top: 777px;
+    text-align: center;
+  
+    
+}
+.box2{
+    background-color: #E7F0E4;
+    height:850px;
+    width: 660px;
+    margin-left: -295px;
+    margin-top: 777px;
+    text-align: center;
+}
+.box1head{
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 60px;
+    color: #1c1e21;
+
+}
+.box1link{
+    text-decoration: none;
+    color: #39b3ed;
+
+}
+.box1link:hover{
+    text-decoration: underline;
+}
+.box1para{
+    color: #1c1e21;
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.box1img{
+    margin-top: 57px;
+    width: 50%;
+}
+.box2img{
+    width: 50%;
+    margin-top: 82px;
+}
+.box2h3{
+    color: #5E5E5E;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    letter-spacing: 2px;
+    margin-top: 58px;
+}
+.box2head{
+    font-size: 34px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #1c1e21;
+}
+.features-button{
+   
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 350;
+    color: #128c7e;
+    border: solid 2px;
+    border-radius: 40px;
+     width: 180px;
+    padding: 18px 32px;
+    text-align: center;
+    margin-left: 556px;
+    margin-top: 60px;
+    font-size: 16px;
+}
+.features-button:hover{
+    cursor: pointer;
+}
+.footer{
+    background-color: #273443;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 95px;
+    padding-top: 34px;
+}
+.footerhead{
+    color: #F0F4F9;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-bottom: 22px;
+}
+.footersub{
+    color: #FFFFFF;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+    
+}
+.footersub:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.table{
+    background-color: #1c1e21;
+    width: 100%;
+    height: 70px;
+}
+.table-left{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+
+}
+.table-right{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    
+
+}
+.table-right:hover{
+    cursor: pointer;
+}
+
